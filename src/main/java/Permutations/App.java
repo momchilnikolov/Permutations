@@ -18,8 +18,9 @@ public class App {
         {
             HeapAlgo obj = new HeapAlgo(); 
             obj.heapPermutation(args, args.length, args.length);
-        } else 
+        } else {
             System.out.println("Please enter a single word or a sentence to permutate."); 
+        }
     }
 
 }
