@@ -1,4 +1,4 @@
-package test_project;
+package Permutations;
 
 public class StringPermutation {
 
